@@ -76,7 +76,7 @@ docker run -d -p 7002:80 --network reverse --name nginx_proxy reverse-proxy
 
 ---
 
-## **🔍 Testing the Setup**
+## **Testing the Setup**
 
 Once all containers are running, test access:
 
